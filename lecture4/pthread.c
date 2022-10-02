@@ -5,7 +5,7 @@
  * the summation operation is run as a separate thread.
  *
  * Most Unix/Linux/OS X users
- * gcc thrd.c -lpthread
+ * gcc pthread.c -lpthread
  *
  * Figure 4.11
  *
